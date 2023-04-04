@@ -1,3 +1,5 @@
+# PHP POINT OF SALE (19SW27, 19SW29, 19SW115)
+
 # Description
 
 It's a Point Of Sale project, using PHP & MySQL as database management System.
